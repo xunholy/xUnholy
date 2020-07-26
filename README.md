@@ -1,4 +1,8 @@
-# Hi, I'm Michael
+# WHOAMI
+
+I'm a Husband and Father who loves spending time with my family. Some of my hobbies include 3D printing, paintball, gaming, and writing code!
+
+I am heavily involved in the Raspberry Pi communities and Co-Founder of the [Raspbernetes](https://github.com/raspbernetes) project. I also am involved in multiple CNCF projects and an open-source contributor.
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=radical" />
