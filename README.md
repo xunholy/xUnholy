@@ -1,7 +1,7 @@
 # Hi, I'm Michael
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=javascript,html&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=javascript,html&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=xUnholy&show_icons=true&theme=radical&count_private=true&hide=stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xUnholy&show_icons=true&theme=radical&count_private=true&hide=stars" />
