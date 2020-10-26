@@ -1,17 +1,17 @@
-# WHOAMI
+<h1 align="center">Hi 👋, I'm Michael Fornaro</h1>
+<h3 align="center">A passionate DevOps Engineer from Australia. I'm also the Founder of the Raspbernetes project. I also am involved in multiple CNCF projects and an open-source contributor.
+</h3>
 
-I'm a Husband and Father who loves spending time with my family. Some of my hobbies include 3D printing, paintball, gaming, and writing code!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-fornaro-5b756179/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/michael-fornaro-5b756179/" height="30" width="40" /></a>
+<a href="https://medium.com/@michaelfornaro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@michaelfornaro" height="30" width="40" /></a>
+</p>
 
-I am heavily involved in the Raspberry Pi communities and Co-Founder of the [Raspbernetes](https://github.com/raspbernetes) project. I also am involved in multiple CNCF projects and an open-source contributor.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xUnholy&hide=hcl&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api?username=xUnholy&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xUnholy&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xunholy&show_icons=true&locale=en&layout=compact" alt="xunholy" /></p>
 
-## Social Media <a href="https://github.com/sponsors/xUnholy"><img align="left" width="150" height="150" src="https://github.com/xUnholy/xUnholy/blob/master/octoxunholy/xunholy-octocat-rotating.gif?raw=true"></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xunholy&show_icons=true&locale=en" alt="xunholy" /></p>
 
-- Connect with me on <a href="https://www.linkedin.com/in/michael-fornaro-5b756179/">LinkedIn</a>
-- Join the Raspberry Pi <a href="https://github.com/raspbernetes/">community</a>
