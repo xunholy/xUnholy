@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Fornaro</h1>
-<h3 align="center">A passionate DevOps Engineer from Australia. I'm also the Founder of <a target="_blank" href="https://github.com/raspbernetes">Kubeflare</a> previously known as Raspbernetes. I'm also heavily involved in a number of open-source projects.
+<h3 align="center">A passionate DevOps Engineer from Australia. I'm the Founder of <a target="_blank" href="https://github.com/raspbernetes">Raspbernetes</a>. Additionally, I'm heavily involved in a number of open-source CNCF projects.
 </h3>
   <br />
   <br />
