@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=E72EF7&center=true&vCenter=true&repeat=false&width=435&lines=Michael+Fornaro" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=0366d6&center=true&vCenter=true&repeat=false&width=435&lines=Michael+Fornaro" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=E72EF7&center=true&vCenter=true&width=435&lines=Experienced+Cloud+Platform+Engineer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=0366d6&center=true&vCenter=true&width=435&lines=Experienced+Cloud+Platform+Engineer;5%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
