@@ -9,8 +9,10 @@ on:
       - main
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@latest
@@ -20,7 +22,8 @@ jobs:
           user: xunholy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Australia/Sydney
+          config_timezone: Australia/Melbourne
           plugin_sponsors: yes
+          plugin_sponsors_past: yes
           plugin_sponsors_sections: goal, about
           plugin_traffic: yes
